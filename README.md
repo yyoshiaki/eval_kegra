@@ -3,15 +3,14 @@ evaluation of kegra
 
 # to do
 - find network datasets (ideally 2 or more?)
-  - cora?  
-  - [LINQS Datasets](https://linqs.soe.ucsc.edu/data) Graph Datasets
+  - [LINQS Datasets](https://linqs.soe.ucsc.edu/data) : Graph Datasets
 - compare with RF, NN, etc...
 - visualize network using [nx_altair](https://github.com/Zsailer/nx_altair)
 
 # reference
 - [kegra](https://github.com/tkipf/keras-gcn)  
   
-## implementation with Tensorflow
+## implementation using Tensorflow
 - [Node Classification by Graph Convolutional Network](https://www.experoinc.com/post/node-classification-by-graph-convolutional-network)  
 - [GCN Tutorial](https://github.com/dbusbridge/gcn_tutorial)  
 - http://web.eng.tau.ac.il/deep_learn/wp-content/uploads/2017/03/Deep-Convolutional-Networks-on-Graph-Structured-Data.pdf  
