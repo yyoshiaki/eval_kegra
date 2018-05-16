@@ -1,3 +1,5 @@
+# いきって英語で書いたけど日本語でいいよ！笑
+
 # eval_kegra
 evaluation of kegra
 
